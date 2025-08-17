@@ -39,4 +39,4 @@ Everyday is my struggle to build world-class self-discipline. You can try <a hre
 I want to see myself join you in your startup journey and make difference.  
 Until then, take care.
 
-<small>Email me at <a href="mailto:soon.nerd@gmail.com">soon.nerd@gmail.com</a>.</small>
+<small>Email me at <a href="mailto:dannyliu.xc@gmail.com">dannyliu.xc@gmail.com</a>.</small>
