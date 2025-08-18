@@ -9,9 +9,9 @@ I worked for 3 startups, as a full-time employee for 2 of them, and a contractor
 During the process, I taught myself to be creative, innovative and entrepreneurial while delivering what is expected from me - the high-quality software.
 
 Some of my significant contributions are:
-- helping a gaming startup increase the __annual revenue by 8.9%__
-- helping an AI startup land __2 rounds of venture funding__
-- helping a drone-tech startup __sell their business__
+- helping an e-commerce startup increase the __annual revenue by 8.9%__
+- helping a healthcare startup __2 rounds of venture funding__
+- helping a mhealth startup __won a startup award__
 
 ***
 ---
